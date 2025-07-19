@@ -1,0 +1,1 @@
+from monitoring.collector import collect_all_metrics
